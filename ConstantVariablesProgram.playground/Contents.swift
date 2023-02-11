@@ -18,11 +18,11 @@ print("area of circle is " + "\( areaOfCircle)") //output
 
 //Personal Details
 
-let name = "Neil Sahai"
-let dateOfBirth = "01-01-1992"
-var age = 30
-let placeOfBirth = "New York"
-var currentCity = "Singapore"
+let name = "Neil Sahai" //Constant as name can not change
+let dateOfBirth = "01-01-1992" //Constant as date of birth can not change
+var age = 30 //variable as age will change
+let placeOfBirth = "New York" //Constant as place of birth can not change
+var currentCity = "Singapore" //Variable as current city can change 
 
 
 print(name)
